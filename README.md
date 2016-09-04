@@ -12,26 +12,26 @@ Adicionalmente contiene 2 archivos utiles para la prueba del programa
 Para compilar usando el makefile basta con lo siguiente:
 
 ### Linux ###
-'''bash
+```bash
 $ make makefile
-'''
+```
 
 
 En windows se debe primero editar el archivo makefile y a la constante PROGRAMA agregarle '.exe' al final
 
 ### Windows ###
-'''bash
+```bash
 > mingw32-make makefile
-'''
+```
 
 Finalmente, para ejecutar el programa puedes escribir en la consola (terminal):
 
 ### Linux ###
-'''bash
+```bash
 $ test "texto.txt" "hola soy un texto"
-'''
+```
 
 ### Windows ###
-'''bash
+```bash
 $ test "texto.txt" "hola soy un texto"
-'''
+```
