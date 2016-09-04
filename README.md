@@ -33,5 +33,5 @@ $ ./test "texto.txt" "hola soy un texto"
 
 ### Windows ###
 ```bash
-$ test "texto.txt" "hola soy un texto"
+> test "texto.txt" "hola soy un texto"
 ```
