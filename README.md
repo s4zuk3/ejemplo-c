@@ -28,7 +28,7 @@ Finalmente, para ejecutar el programa puedes escribir en la consola (terminal):
 
 ### Linux ###
 ```bash
-$ test "texto.txt" "hola soy un texto"
+$ ./test "texto.txt" "hola soy un texto"
 ```
 
 ### Windows ###
